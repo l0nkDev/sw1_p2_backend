@@ -97,7 +97,7 @@ DATABASES = {
         'NAME': 'sw1p1db',
         'USER': 'postgres',
         'PASSWORD': '\\^MGbat%=5deeuN',
-        'HOST': '34.55.58.2',  # Or your database server's IP
+        'HOST': '127.0.0.1',  # Or your database server's IP
         'PORT': '5432',
     }
 }
