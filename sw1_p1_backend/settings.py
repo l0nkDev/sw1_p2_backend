@@ -94,7 +94,7 @@ DATABASES = {
         # 'ENGINE': 'django.db.backends.sqlite3',
         # 'NAME': BASE_DIR / 'db.sqlite3',
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'sw1p1db',
+        'NAME': 'sw1p2db',
         'USER': 'postgres',
         'PASSWORD': '\\^MGbat%=5deeuN',
         'HOST': '127.0.0.1',  # Or your database server's IP
